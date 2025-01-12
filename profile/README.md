@@ -1,107 +1,151 @@
-# 🚀 Scripters Collective 一 Free & Open Source
-
-![GitHub Org Stars](https://img.shields.io/github/stars/ScriptersCollective?style=for-the-badge&logo=github&color=blue&logoColor=white)
-![GitHub Org Followers](https://img.shields.io/github/followers/ScriptersCollective?style=for-the-badge&logo=github&color=green&logoColor=white)
-![Open Source Love](https://img.shields.io/badge/OPEN_SOURCE-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-[![Telegram](https://img.shields.io/badge/JOIN_US-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ScriptersCollective)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ScriptersCollective/.github/main/assets/banner.png" alt="Scripters Collective Banner" width="100%">
-
-  <h3>「 Empowering Developers Through Free Resources & Open Innovation 」</h3>
-</div>
-
-## 🌟 About Us
-
-Welcome to **Scripters Collective** - where innovation meets community! We're a global developer collective focused on:
-
-- 🛠️ Creating free, open-source development tools
-- 💡 Building innovative blockchain solutions
-- 🤝 Fostering global tech collaboration
-- 📚 Sharing knowledge and resources
-- 🌍 Building a worldwide developer ecosystem
-
-## ⚡ Featured Projects
-
-### Flash USDT Demo
-[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=flat-square&logo=youtube)](https://youtu.be/BG7BES0pa34?si=Thvr_40cu7uVpWo_)
-
-```javascript
-// Experience the future of blockchain interaction
-const flashUSDT = {
-  type: "Demo Project",
-  purpose: "Educational & Entertainment",
-  blockchain: "Multi-chain Compatible"
-};
-```
-
-🔗 [Explore Flash USDT Repository](https://github.com/FlashUSDTSenderBot/flashusdtsenderbot.github.io)
-
-## 🛠️ Technology Stack
-
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+# ⚡ Scripters Collective 一 Free & Open Source
 
-</div>
+[<img src="https://img.shields.io/badge/JOIN_COMMUNITY-Telegram-blue?style=for-the-badge&logo=telegram">](https://t.me/ScriptersCollective)
+[<img src="https://img.shields.io/badge/EXPLORE-Projects-181717?style=for-the-badge&logo=github">](https://github.com/ScriptersCollective)
+[![YouTube](https://img.shields.io/badge/FLASH_USDT-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/BG7BES0pa34)
 
-## 🤝 Join Our Community
-
-We believe in the power of community-driven development. Here's how you can get involved:
-
-```mermaid
-graph LR
-    A[Join Community] --> B[Explore Projects]
-    B --> C[Contribute]
-    C --> D[Share Knowledge]
-    D --> A
-```
-
-### Connect With Us
-
-- 📱 **Telegram**: [@ScriptersCollective](https://t.me/ScriptersCollective)
-- 💻 **GitHub**: [github.com/ScriptersCollective](https://github.com/ScriptersCollective)
-- 🌐 **Website**: [scripterscollective.org](https://scripterscollective.org)
-- 📧 **Email**: contact@scripterscollective.org
-
-## 📍 Location
-
-<div align="center">
-
-🌍 **Based in Bahrain** | 🌐 **Operating Globally**
-
-</div>
-
-## 🤖 Latest Activity
-
-<!-- ACTIVITY-LIST:START -->
-- 🚀 New repositories weekly
-- 💡 Regular tech tutorials
-- 🤝 Active community support
-- 📚 Free resource sharing
-<!-- ACTIVITY-LIST:END -->
-
-## 📜 License
-
-```
-MIT License
-
-Copyright (c) 2024 Scripters Collective
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files.
-```
-
-<div align="center">
+![Stars](https://img.shields.io/github/stars/ScriptersCollective?style=for-the-badge&color=yellow&logo=github)
+![Members](https://img.shields.io/badge/MEMBERS-5000+-success?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-∞-purple?style=for-the-badge&logo=opensourceinitiative)
 
 ---
 
-### 🌟 Star us on GitHub to show your support! 🌟
+<img src="https://raw.githubusercontent.com/ScriptersCollective/.github/main/profile/banner.webp" alt="Banner" width="800px">
 
-[![Made with ❤️ by Scripters Collective](https://img.shields.io/badge/Made_with_❤️_by-Scripters_Collective-blue?style=for-the-badge)](https://github.com/ScriptersCollective)
+**「 Empowering Developers Through Free Resources & Innovation 」**
+
+</div>
+
+## 🎯 Our Vision
+
+```js
+const scriptersCollective = {
+  mission: "Democratizing blockchain development",
+  focus: ["Free Resources", "Open Source", "Innovation"],
+  community: "Global developers united",
+  status: "Always building...",
+};
+```
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Flash USDT
+[<img src="https://user-images.githubusercontent.com/your-image-path/flash-usdt.png" width="100%">](https://github.com/FlashUSDTSenderBot/flashusdtsenderbot.github.io)
+**Educational blockchain demo project**
+- Multi-chain compatible
+- Interactive demos
+- Community-driven development
+
+</td>
+<td width="50%">
+
+### Coming Soon
+[<img src="https://user-images.githubusercontent.com/your-image-path/upcoming.png" width="100%">](https://github.com/ScriptersCollective)
+**New projects in development**
+- Advanced tools
+- Developer resources
+- Innovative solutions
+
+</td>
+</tr>
+</table>
+
+## 💫 Tech Stack
+
+<div align="center">
+
+[![Tech Stack](https://skillicons.dev/icons?i=solidity,js,py,react,nodejs,ts,mongodb,aws&theme=dark)](https://github.com/ScriptersCollective)
+
+</div>
+
+## 🌊 Activity Stream
+
+```mermaid
+graph LR
+    A[Join] --> B[Learn]
+    B --> C[Build]
+    C --> D[Share]
+    D --> A
+    style A fill:#2563eb,color:#fff
+    style B fill:#3b82f6,color:#fff
+    style C fill:#60a5fa,color:#fff
+    style D fill:#93c5fd,color:#fff
+```
+
+## 🌐 Global Community
+
+<div align="center">
+
+| 📱 Social | 🔗 Link | 🎯 Purpose |
+|-----------|---------|------------|
+| Telegram | [@ScriptersCollective](https://t.me/ScriptersCollective) | Community & Support |
+| GitHub | [ScriptersCollective](https://github.com/ScriptersCollective) | Code & Collaboration |
+| YouTube | [Watch Demo](https://youtu.be/BG7BES0pa34) | Tutorials & Demos |
+
+</div>
+
+## 📈 Project Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ScriptersCollective&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=fff)
+
+</div>
+
+## 🛠️ Development
+
+```bash
+# Clone our repositories
+git clone https://github.com/ScriptersCollective/project-name
+
+# Join our community
+https://t.me/ScriptersCollective
+
+# Start building
+The future is open source! 🚀
+```
+
+## 💡 Core Values
+
+- **Free Resources** - Everything we create is free and open
+- **Innovation** - Pushing boundaries in blockchain
+- **Community** - Global collaboration and support
+- **Education** - Sharing knowledge freely
+- **Trust** - Building reliable solutions
+
+## 🌍 Location
+
+<div align="center">
+
+**🏛️ Based in Bahrain**  
+Operating Globally 24/7
+
+[<img src="https://img.shields.io/badge/TIMEZONE-GMT+3-blue?style=for-the-badge&logo=clockify&logoColor=white">](https://time.is/Bahrain)
+
+</div>
+
+## 🤝 Join Us
+
+<div align="center">
+
+**Be part of something bigger**
+
+[<img src="https://img.shields.io/badge/JOIN_NOW-Telegram-blue?style=for-the-badge&logo=telegram">](https://t.me/ScriptersCollective)
+
+---
+
+<sub>Made with 💙 by Scripters Collective</sub>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+the+future+together;Free+and+open+source;Join+our+collective+today)](https://github.com/ScriptersCollective)
 
 </div>
